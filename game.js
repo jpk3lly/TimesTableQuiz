@@ -2,7 +2,7 @@ const question = document.getElementById("question");
 const choices = Array.from(document.getElementsByClassName("choice-text"));
 const progressText = document.getElementById("progressText");
 const scoreText = document.getElementById("score");
-const progressBarFull = document.getElementById("progressBarFull"); 
+const progressBarFull = document.getElementById("progressBarFull");
 const loader = document.getElementById("loader");
 const game = document.getElementById("game");
 let currentQuestion = {};
@@ -13,7 +13,7 @@ let availableQuesions = [];
 
 let questions = [];
 
-fetch("https://github.com/jpk3lly/TimesTableQuiz/blob/master/.vs/TimesTablesQuestions.json")
+fetch("TimesTablesQuestions.json")
 
     .then(res => {
         return res.json();
