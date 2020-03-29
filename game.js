@@ -18,8 +18,8 @@ fetch("https://api.myjson.com/bins/ijt6w")
         return res.json();
     })
     .then(loadedQuestions => {
-        console.log(loadedQuestions.res);
-        questions = loadedQuestions.res.map(loadedQuestion => {
+        console.log(loadedQuestions.results);
+        questions = loadedQuestions.results.map(loadedQuestion => {
             const formattedQuestion = {
                 question: loadedQuestion.question
             };
