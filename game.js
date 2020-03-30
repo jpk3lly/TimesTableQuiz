@@ -20,21 +20,6 @@ fetch("https://api.myjson.com/bins/ijt6w")
     .then(loadedQuestions => {
         console.log(loadedQuestions);
         questions = loadedQuestions;
-       })
-            const answerChoices = [...loadedQuestion.incorrect_answers];
-            formattedQuestion.answer = Math.floor(Math.random() * 3) + 1;
-            answerChoices.splice(
-                formattedQuestion.answer - 1,
-                0,
-                loadedQuestion.correct_answer
-            );
-            answerChoices.forEach((choice, index) => {
-                formattedQuestion["choice" + (index + 1)] = choice;
-            });
-
-            return formattedQuestion;
-        });
-
         startGame();
     })
     .catch(err => {
