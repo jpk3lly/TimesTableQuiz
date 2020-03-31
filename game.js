@@ -13,33 +13,18 @@ let availableQuesions = [];
 
 let questions = [];
 
+<<<<<<< HEAD
 fetch("TimesTablesQuestions.json")
 
+=======
+fetch("https://api.myjson.com/bins/xomp0")
+>>>>>>> 39280396cc9ae6dfc54b4d10bd53a38b0e5bc184
     .then(res => {
         return res.json();
     })
     .then(loadedQuestions => {
-        console.log(loadedQuestions.results);
-        questions = loadedQuestions.results.map(loadedQuestion => {
-            const formattedQuestion = {
-                question: loadedQuestion.question
-            };
-
-            const answerChoices = [...loadedQuestion.incorrect_answers];
-            formattedQuestion.answer = Math.floor(Math.random() * 3) + 1;
-            answerChoices.splice(
-                formattedQuestion.answer - 1,
-                0,
-                loadedQuestion.correct_answer
-            );
-
-            answerChoices.forEach((choice, index) => {
-                formattedQuestion["choice" + (index + 1)] = choice;
-            });
-
-            return formattedQuestion;
-        });
-
+        console.log(loadedQuestions);
+        questions = loadedQuestions;
         startGame();
     })
     .catch(err => {
