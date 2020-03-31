@@ -484,5 +484,293 @@
         "choice3": "65",
         "choice4": "55",
         "answer": 2
+    },
+    {
+        "question": "1 x 6 = ?",
+        "choice1": "6",
+        "choice2": "1",
+        "choice3": "7",
+        "choice4": "12",
+        "answer": 2
+    },
+    {
+        "question": "2 x 6 = ?",
+        "choice1": "2",
+        "choice2": "6",
+        "choice3": "18",
+        "choice4": "12",
+        "answer": 4
+    },
+    {
+        "question": "3 x 6 = ?",
+        "choice1": "18",
+        "choice2": "10",
+        "choice3": "15",
+        "choice4": "12",
+        "answer": 1
+    },
+    {
+        "question": "4 x 6 = ?",
+        "choice1": "22",
+        "choice2": "18",
+        "choice3": "24",
+        "choice4": "20",
+        "answer": 3
+    },
+    {
+        "question": "5 x 6 = ?",
+        "choice1": "34",
+        "choice2": "30",
+        "choice3": "28",
+        "choice4": "20",
+        "answer": 2
+    },
+    {
+        "question": "6 x 6 = ?",
+        "choice1": "34",
+        "choice2": "30",
+        "choice3": "36",
+        "choice4": "38",
+        "answer": 3
+    },
+    {
+        "question": "7 x 6 = ?",
+        "choice1": "38",
+        "choice2": "44",
+        "choice3": "36",
+        "choice4": "42",
+        "answer": 4
+    },
+    {
+        "question": "8 x 6 = ?",
+        "choice1": "48",
+        "choice2": "44",
+        "choice3": "46",
+        "choice4": "42",
+        "answer": 1
+    },
+    {
+        "question": "9 x 6 = ?",
+        "choice1": "52",
+        "choice2": "48",
+        "choice3": "54",
+        "choice4": "56",
+        "answer": 3
+    },
+    {
+        "question": "10 x 6 = ?",
+        "choice1": "58",
+        "choice2": "60",
+        "choice3": "54",
+        "choice4": "56",
+        "answer": 2
+    },
+    {
+        "question": "11 x 6 = ?",
+        "choice1": "58",
+        "choice2": "60",
+        "choice3": "66",
+        "choice4": "62",
+        "answer": 3
+    },
+    {
+        "question": "12 x 6 = ?",
+        "choice1": "70",
+        "choice2": "72",
+        "choice3": "76",
+        "choice4": "62",
+        "answer": 2
+    },
+    {
+        "question": "1 x 7 = ?",
+        "choice1": "7",
+        "choice2": "1",
+        "choice3": "14",
+        "choice4": "12",
+        "answer": 1
+    },
+    {
+        "question": "2 x 7 = ?",
+        "choice1": "7",
+        "choice2": "21",
+        "choice3": "14",
+        "choice4": "18",
+        "answer": 3
+    },
+    {
+        "question": "3 x 7 = ?",
+        "choice1": "21",
+        "choice2": "7",
+        "choice3": "14",
+        "choice4": "18",
+        "answer": 1
+    },
+    {
+        "question": "4 x 7 = ?",
+        "choice1": "7",
+        "choice2": "21",
+        "choice3": "14",
+        "choice4": "28",
+        "answer": 4
+    },
+    {
+        "question": "5 x 7 = ?",
+        "choice1": "14",
+        "choice2": "21",
+        "choice3": "35",
+        "choice4": "42",
+        "answer": 3
+    },
+    {
+        "question": "6 x 7 = ?",
+        "choice1": "14",
+        "choice2": "42",
+        "choice3": "35",
+        "choice4": "28",
+        "answer": 2
+    },
+    {
+        "question": "7 x 7 = ?",
+        "choice1": "49",
+        "choice2": "21",
+        "choice3": "35",
+        "choice4": "42",
+        "answer": 1
+    },
+    {
+        "question": "8 x 7 = ?",
+        "choice1": "35",
+        "choice2": "56",
+        "choice3": "42",
+        "choice4": "63",
+        "answer": 2
+    },
+    {
+        "question": "9 x 7 = ?",
+        "choice1": "63",
+        "choice2": "56",
+        "choice3": "70",
+        "choice4": "49",
+        "answer": 2
+    },
+    {
+        "question": "10 x 7 = ?",
+        "choice1": "70",
+        "choice2": "56",
+        "choice3": "63",
+        "choice4": "77",
+        "answer": 1
+    },
+    {
+        "question": "11 x 7 = ?",
+        "choice1": "70",
+        "choice2": "56",
+        "choice3": "77",
+        "choice4": "84",
+        "answer": 1
+    },
+    {
+        "question": "12 x 7 = ?",
+        "choice1": "70",
+        "choice2": "91",
+        "choice3": "77",
+        "choice4": "84",
+        "answer": 4
+    },
+    {
+        "question": "1 x 8 = ?",
+        "choice1": "1",
+        "choice2": "16",
+        "choice3": "8",
+        "choice4": "12",
+        "answer": 3
+    },
+    {
+        "question": "2 x 8 = ?",
+        "choice1": "16",
+        "choice2": "24",
+        "choice3": "12",
+        "choice4": "8",
+        "answer": 1
+    },
+    {
+        "question": "3 x 8 = ?",
+        "choice1": "16",
+        "choice2": "24",
+        "choice3": "32",
+        "choice4": "8",
+        "answer": 2
+    },
+    {
+        "question": "4 x 8 = ?",
+        "choice1": "32",
+        "choice2": "24",
+        "choice3": "16",
+        "choice4": "40",
+        "answer": 1
+    },
+    {
+        "question": "5 x 8 = ?",
+        "choice1": "56",
+        "choice2": "24",
+        "choice3": "48",
+        "choice4": "40",
+        "answer": 4
+    },
+    {
+        "question": "6 x 8 = ?",
+        "choice1": "56",
+        "choice2": "48",
+        "choice3": "64",
+        "choice4": "40",
+        "answer": 2
+    },
+    {
+        "question": "7 x 8 = ?",
+        "choice1": "72",
+        "choice2": "64",
+        "choice3": "48",
+        "choice4": "56",
+        "answer": 4
+    },
+    {
+        "question": "8 x 8 = ?",
+        "choice1": "56",
+        "choice2": "64",
+        "choice3": "80",
+        "choice4": "72",
+        "answer": 2
+    },
+    {
+        "question": "9 x 8 = ?",
+        "choice1": "72",
+        "choice2": "88",
+        "choice3": "80",
+        "choice4": "76",
+        "answer": 1
+    },
+    {
+        "question": "10 x 8 = ?",
+        "choice1": "88",
+        "choice2": "96",
+        "choice3": "80",
+        "choice4": "72",
+        "answer": 3
+    },
+    {
+        "question": "11 x 8 = ?",
+        "choice1": "72",
+        "choice2": "96",
+        "choice3": "80",
+        "choice4": "88",
+        "answer": 4
+    },
+    {
+        "question": "12 x 8 = ?",
+        "choice1": "88",
+        "choice2": "104",
+        "choice3": "80",
+        "choice4": "96",
+        "answer": 4
     }
 ]
