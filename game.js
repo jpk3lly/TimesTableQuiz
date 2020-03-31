@@ -13,7 +13,7 @@ let availableQuesions = [];
 
 let questions = [];
 
-fetch("https://api.myjson.com/bins/xomp0")
+fetch("https://api.myjson.com/bins/u2ei0")
     .then(res => {
         return res.json();
     })
