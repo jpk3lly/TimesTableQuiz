@@ -389,4 +389,100 @@
         "choice4": "38",
         "answer": 2
     },
+    {
+        "question": "1 x 5 = ?",
+        "choice1": "1",
+        "choice2": "3",
+        "choice3": "5",
+        "choice4": "7",
+        "answer": 3
+    },
+    {
+        "question": "2 x 5 = ?",
+        "choice1": "10",
+        "choice2": "5",
+        "choice3": "15",
+        "choice4": "2",
+        "answer": 1
+    },
+    {
+        "question": "3 x 5 = ?",
+        "choice1": "5",
+        "choice2": "10",
+        "choice3": "15",
+        "choice4": "20",
+        "answer": 3
+    },
+    {
+        "question": "4 x 5 = ?",
+        "choice1": "20",
+        "choice2": "25",
+        "choice3": "15",
+        "choice4": "10",
+        "answer": 2
+    },
+    {
+        "question": "5 x 5 = ?",
+        "choice1": "20",
+        "choice2": "25",
+        "choice3": "30",
+        "choice4": "15",
+        "answer": 2
+    },
+    {
+        "question": "6 x 5 = ?",
+        "choice1": "20",
+        "choice2": "25",
+        "choice3": "35",
+        "choice4": "30",
+        "answer": 4
+    },
+    {
+        "question": "7 x 5 = ?",
+        "choice1": "35",
+        "choice2": "25",
+        "choice3": "40",
+        "choice4": "30",
+        "answer": 2
+    },
+    {
+        "question": "8 x 5 = ?",
+        "choice1": "40",
+        "choice2": "25",
+        "choice3": "45",
+        "choice4": "35",
+        "answer": 1
+    },
+    {
+        "question": "9 x 5 = ?",
+        "choice1": "40",
+        "choice2": "35",
+        "choice3": "45",
+        "choice4": "50",
+        "answer": 3
+    },
+    {
+        "question": "10 x 5 = ?",
+        "choice1": "50",
+        "choice2": "40",
+        "choice3": "45",
+        "choice4": "55",
+        "answer": 1
+    },
+    {
+        "question": "11 x 5 = ?",
+        "choice1": "50",
+        "choice2": "60",
+        "choice3": "45",
+        "choice4": "55",
+        "answer": 4
+    },
+    {
+        "question": "12 x 5 = ?",
+        "choice1": "55",
+        "choice2": "60",
+        "choice3": "65",
+        "choice4": "55",
+        "answer": 2
+    }
 ]
