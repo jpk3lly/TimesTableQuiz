@@ -13,12 +13,7 @@ let availableQuesions = [];
 
 let questions = [];
 
-<<<<<<< HEAD
-fetch("TimesTablesQuestions.json")
-
-=======
 fetch("https://api.myjson.com/bins/xomp0")
->>>>>>> 39280396cc9ae6dfc54b4d10bd53a38b0e5bc184
     .then(res => {
         return res.json();
     })
