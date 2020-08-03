@@ -13,7 +13,7 @@ let availableQuesions = [];
 
 let questions = [];
 
-fetch("https://github.com/jpk3lly/TimesTableQuiz/blob/master/TimesTablesQuestions.json")
+fetch("TimesTablesQuestions")
     .then(res => {
         return res.json();
     })
