@@ -13,7 +13,7 @@ let availableQuesions = [];
 
 let questions = [];
 
-fetch("TimesTablesQuestions", { mode: 'no-cors'})
+fetch("TimesTablesQuestions.json", { mode: 'no-cors'})
     .then(res => {
         return res.json();
     })
