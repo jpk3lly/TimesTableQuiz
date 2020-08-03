@@ -13,7 +13,7 @@ let availableQuesions = [];
 
 let questions = [];
 
-fetch("https://api.jsonbin.io/b/5e89b17c85182d79b063dce2")
+fetch("TimesTablesQuestions.json")
     .then(res => {
         return res.json();
     })
