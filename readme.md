@@ -28,7 +28,7 @@ Then I thought, it's October! it's Hacktoberfest, lets see what we can make as a
     </p>
 </h2>
 
-## Thank You To These Legends For Contributing to this Repo for Hacktoberfest 2021
+<h2 align="center">A Bigh Thank You To These Legends For Contributing to this Repo for Hacktoberfest 2021 </h2>
 
 <table>
 <tr><td align="center"><a href="https://github.com/jpk3lly"><kbd><img src="https://avatars.githubusercontent.com/u/39955081?v=4size=400" width="100px;" alt=""/></kbd><br /><sub><b>John-Paul Kelly</b></sub></a><br /><a href="https://github.com/jpk3lly/TimesTableQuiz/commits?author=jpk3lly" title="Code"> :computer: </a> 
