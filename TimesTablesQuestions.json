@@ -1,5 +1,6 @@
 [
     {
+        "table" : "1",
         "question": "1 x 1 = ?",
         "choice1": "3",
         "choice2": "5",
@@ -9,6 +10,7 @@
     },
 
     {
+        "table" : "1",
         "question": "2 x 1 = ?",
         "choice1": "7",
         "choice2": "2",
@@ -18,6 +20,7 @@
     },
 
     {
+        "table" : "1",
         "question": "3 x 1 = ?",
         "choice1": "3",
         "choice2": "4",
@@ -27,6 +30,7 @@
     },
 
     {
+        "table" : "1",
         "question": "4 x 1 = ?",
         "choice1": "3",
         "choice2": "4",
@@ -36,6 +40,7 @@
     },
 
     {
+        "table" : "1",
         "question": "5 x 1 = ?",
         "choice1": "5",
         "choice2": "4",
@@ -45,6 +50,7 @@
     },
 
     {
+        "table" : "1",
         "question": "6 x 1 = ?",
         "choice1": "5",
         "choice2": "9",
@@ -54,6 +60,7 @@
     },
 
     {
+        "table" : "1",
         "question": "7 x 1 = ?",
         "choice1": "1",
         "choice2": "3",
@@ -62,6 +69,7 @@
         "answer": 4
     },
     {
+        "table" : "1",
         "question": "8 x 1 = ?",
         "choice1": "3",
         "choice2": "8",
@@ -70,6 +78,7 @@
         "answer": 2
     },
     {
+        "table" : "1",
         "question": "9 x 1 = ?",
         "choice1": "9",
         "choice2": "8",
@@ -78,6 +87,7 @@
         "answer": 1
     },
     {
+        "table" : "1",
         "question": "10 x 1 = ?",
         "choice1": "9",
         "choice2": "8",
@@ -86,6 +96,7 @@
         "answer": 3
     },
     {
+        "table" : "1",
         "question": "11 x 1 = ?",
         "choice1": "11",
         "choice2": "8",
@@ -94,6 +105,7 @@
         "answer": 1
     },
     {
+        "table" : "1",
         "question": "12 x 1 = ?",
         "choice1": "11",
         "choice2": "10",
@@ -102,6 +114,7 @@
         "answer": 3
     },
     {
+        "table" : "2",
         "question": "1 x 2 = ?",
         "choice1": "2",
         "choice2": "10",
@@ -110,6 +123,7 @@
         "answer": 1
     },
     {
+        "table" : "2",
         "question": "2 x 2 = ?",
         "choice1": "3",
         "choice2": "2",
@@ -118,6 +132,7 @@
         "answer": 3
     },
     {
+        "table" : "2",
         "question": "3 x 2 = ?",
         "choice1": "4",
         "choice2": "6",
@@ -126,6 +141,7 @@
         "answer": 2
     },
     {
+        "table" : "2",
         "question": "4 x 2 = ?",
         "choice1": "4",
         "choice2": "2",
@@ -134,6 +150,7 @@
         "answer": 3
     },
     {
+        "table" : "2",
         "question": "5 x 2 = ?",
         "choice1": "12",
         "choice2": "10",
@@ -142,6 +159,7 @@
         "answer": 2
     },
     {
+        "table" : "2",
         "question": "6 x 2 = ?",
         "choice1": "14",
         "choice2": "8",
@@ -150,6 +168,7 @@
         "answer": 3
     },
     {
+        "table" : "2",
         "question": "7 x 2 = ?",
         "choice1": "14",
         "choice2": "10",
@@ -158,6 +177,7 @@
         "answer": 1
     },
     {
+        "table" : "2",
         "question": "8 x 2 = ?",
         "choice1": "12",
         "choice2": "16",
@@ -166,6 +186,7 @@
         "answer": 2
     },
     {
+        "table" : "2",
         "question": "9 x 2 = ?",
         "choice1": "14",
         "choice2": "16",
@@ -174,6 +195,7 @@
         "answer": 4
     },
     {
+        "table" : "2",
         "question": "10 x 2 = ?",
         "choice1": "16",
         "choice2": "20",
@@ -182,6 +204,7 @@
         "answer": 2
     },
     {
+        "table" : "2",
         "question": "11 x 2 = ?",
         "choice1": "20",
         "choice2": "10",
@@ -190,6 +213,7 @@
         "answer": 3
     },
     {
+        "table" : "2",
         "question": "12 x 2 = ?",
         "choice1": "16",
         "choice2": "24",
@@ -198,6 +222,7 @@
         "answer": 2
     },
     {
+        "table" : "3",
         "question": "1 x 3 = ?",
         "choice1": "2",
         "choice2": "3",
@@ -206,6 +231,7 @@
         "answer": 2
     },
     {
+        "table" : "3",
         "question": "2 x 3 = ?",
         "choice1": "9",
         "choice2": "3",
@@ -214,6 +240,7 @@
         "answer": 3
     },
     {
+        "table" : "3",
         "question": "3 x 3 = ?",
         "choice1": "9",
         "choice2": "3",
@@ -222,6 +249,7 @@
         "answer": 1
     },
     {
+        "table" : "3",
         "question": "4 x 3 = ?",
         "choice1": "9",
         "choice2": "3",
@@ -230,6 +258,7 @@
         "answer": 3
     },
     {
+        "table" : "3",
         "question": "5 x 3 = ?",
         "choice1": "15",
         "choice2": "3",
@@ -238,6 +267,7 @@
         "answer": 1
     },
     {
+        "table" : "3",
         "question": "6 x 3 = ?",
         "choice1": "6",
         "choice2": "18",
@@ -246,6 +276,7 @@
         "answer": 2
     },
     {
+        "table" : "3",
         "question": "7 x 3 = ?",
         "choice1": "15",
         "choice2": "24",
@@ -254,6 +285,7 @@
         "answer": 4
     },
     {
+        "table" : "3",
         "question": "8 x 3 = ?",
         "choice1": "27",
         "choice2": "18",
@@ -262,6 +294,7 @@
         "answer": 3
     },
     {
+        "table" : "3",
         "question": "9 x 3 = ?",
         "choice1": "30",
         "choice2": "24",
@@ -270,6 +303,7 @@
         "answer": 4
     },
     {
+        "table" : "3",
         "question": "10 x 3 = ?",
         "choice1": "30",
         "choice2": "33",
@@ -278,6 +312,7 @@
         "answer": 1
     },
     {
+        "table" : "3",
         "question": "11 x 3 = ?",
         "choice1": "27",
         "choice2": "30",
@@ -286,6 +321,7 @@
         "answer": 4
     },
     {
+        "table" : "3",
         "question": "12 x 3 = ?",
         "choice1": "33",
         "choice2": "36",
@@ -294,6 +330,7 @@
         "answer": 2
     },
     {
+        "table" : "4",
         "question": "1 x 4 = ?",
         "choice1": "4",
         "choice2": "1",
@@ -302,6 +339,7 @@
         "answer": 1
     },
     {
+        "table" : "4",
         "question": "2 x 4 = ?",
         "choice1": "12",
         "choice2": "2",
@@ -310,6 +348,7 @@
         "answer": 2
     },
     {
+        "table" : "4",
         "question": "3 x 4 = ?",
         "choice1": "12",
         "choice2": "8",
@@ -318,6 +357,7 @@
         "answer": 1
     },
     {
+        "table" : "4",
         "question": "4 x 4 = ?",
         "choice1": "12",
         "choice2": "4",
@@ -326,6 +366,7 @@
         "answer": 3
     },
     {
+        "table" : "4",
         "question": "5 x 4 = ?",
         "choice1": "12",
         "choice2": "16",
@@ -334,6 +375,7 @@
         "answer": 3
     },
     {
+        "table" : "4",
         "question": "6 x 4 = ?",
         "choice1": "24",
         "choice2": "16",
@@ -342,6 +384,7 @@
         "answer": 1
     },
     {
+        "table" : "4",
         "question": "7 x 4 = ?",
         "choice1": "20",
         "choice2": "16",
@@ -350,6 +393,7 @@
         "answer": 3
     },
     {
+        "table" : "4",
         "question": "8 x 4 = ?",
         "choice1": "24",
         "choice2": "32",
@@ -358,6 +402,7 @@
         "answer": 2
     },
     {
+        "table" : "4",
         "question": "9 x 4 = ?",
         "choice1": "24",
         "choice2": "32",
@@ -366,6 +411,7 @@
         "answer": 4
     },
     {
+        "table" : "4",
         "question": "10 x 4 = ?",
         "choice1": "34",
         "choice2": "32",
@@ -374,6 +420,7 @@
         "answer": 3
     },
     {
+        "table" : "4",
         "question": "11 x 4 = ?",
         "choice1": "44",
         "choice2": "32",
@@ -382,6 +429,7 @@
         "answer": 1
     },
     {
+        "table" : "4",
         "question": "12 x 4 = ?",
         "choice1": "44",
         "choice2": "48",
@@ -390,6 +438,7 @@
         "answer": 2
     },
     {
+        "table" : "5",
         "question": "1 x 5 = ?",
         "choice1": "1",
         "choice2": "3",
@@ -398,6 +447,7 @@
         "answer": 3
     },
     {
+        "table" : "5",
         "question": "2 x 5 = ?",
         "choice1": "10",
         "choice2": "5",
@@ -406,6 +456,7 @@
         "answer": 1
     },
     {
+        "table" : "5",
         "question": "3 x 5 = ?",
         "choice1": "5",
         "choice2": "10",
@@ -414,6 +465,7 @@
         "answer": 3
     },
     {
+        "table" : "5",
         "question": "4 x 5 = ?",
         "choice1": "20",
         "choice2": "25",
@@ -422,6 +474,7 @@
         "answer": 2
     },
     {
+        "table" : "5",
         "question": "5 x 5 = ?",
         "choice1": "20",
         "choice2": "25",
@@ -430,6 +483,7 @@
         "answer": 2
     },
     {
+        "table" : "5",
         "question": "6 x 5 = ?",
         "choice1": "20",
         "choice2": "25",
@@ -438,6 +492,7 @@
         "answer": 4
     },
     {
+        "table" : "5",
         "question": "7 x 5 = ?",
         "choice1": "35",
         "choice2": "25",
@@ -446,6 +501,7 @@
         "answer": 2
     },
     {
+        "table" : "5",
         "question": "8 x 5 = ?",
         "choice1": "40",
         "choice2": "25",
@@ -454,6 +510,7 @@
         "answer": 1
     },
     {
+        "table" : "5",
         "question": "9 x 5 = ?",
         "choice1": "40",
         "choice2": "35",
@@ -462,6 +519,7 @@
         "answer": 3
     },
     {
+        "table" : "5",
         "question": "10 x 5 = ?",
         "choice1": "50",
         "choice2": "40",
@@ -470,6 +528,7 @@
         "answer": 1
     },
     {
+        "table" : "5",
         "question": "11 x 5 = ?",
         "choice1": "50",
         "choice2": "60",
@@ -478,6 +537,7 @@
         "answer": 4
     },
     {
+        "table" : "5",
         "question": "12 x 5 = ?",
         "choice1": "55",
         "choice2": "60",
@@ -486,6 +546,7 @@
         "answer": 2
     },
     {
+        "table" : "6",
         "question": "1 x 6 = ?",
         "choice1": "6",
         "choice2": "1",
@@ -494,6 +555,7 @@
         "answer": 1
     },
     {
+        "table" : "6",
         "question": "2 x 6 = ?",
         "choice1": "2",
         "choice2": "6",
@@ -502,6 +564,7 @@
         "answer": 4
     },
     {
+        "table" : "6",
         "question": "3 x 6 = ?",
         "choice1": "18",
         "choice2": "10",
@@ -510,6 +573,7 @@
         "answer": 1
     },
     {
+        "table" : "6",
         "question": "4 x 6 = ?",
         "choice1": "22",
         "choice2": "18",
@@ -518,6 +582,7 @@
         "answer": 3
     },
     {
+        "table" : "6",
         "question": "5 x 6 = ?",
         "choice1": "34",
         "choice2": "30",
@@ -526,6 +591,7 @@
         "answer": 2
     },
     {
+        "table" : "6",
         "question": "6 x 6 = ?",
         "choice1": "34",
         "choice2": "30",
@@ -534,6 +600,7 @@
         "answer": 3
     },
     {
+        "table" : "6",
         "question": "7 x 6 = ?",
         "choice1": "38",
         "choice2": "44",
@@ -542,6 +609,7 @@
         "answer": 4
     },
     {
+        "table" : "6",
         "question": "8 x 6 = ?",
         "choice1": "48",
         "choice2": "44",
@@ -550,6 +618,7 @@
         "answer": 1
     },
     {
+        "table" : "6",
         "question": "9 x 6 = ?",
         "choice1": "52",
         "choice2": "48",
@@ -558,6 +627,7 @@
         "answer": 3
     },
     {
+        "table" : "6",
         "question": "10 x 6 = ?",
         "choice1": "58",
         "choice2": "60",
@@ -566,6 +636,7 @@
         "answer": 2
     },
     {
+        "table" : "6",
         "question": "11 x 6 = ?",
         "choice1": "58",
         "choice2": "60",
@@ -574,6 +645,7 @@
         "answer": 3
     },
     {
+        "table" : "6",
         "question": "12 x 6 = ?",
         "choice1": "70",
         "choice2": "72",
@@ -582,6 +654,7 @@
         "answer": 2
     },
     {
+        "table" : "7",
         "question": "1 x 7 = ?",
         "choice1": "7",
         "choice2": "1",
@@ -590,6 +663,7 @@
         "answer": 1
     },
     {
+        "table" : "7",
         "question": "2 x 7 = ?",
         "choice1": "7",
         "choice2": "21",
@@ -598,6 +672,7 @@
         "answer": 3
     },
     {
+        "table" : "7",
         "question": "3 x 7 = ?",
         "choice1": "21",
         "choice2": "7",
@@ -606,6 +681,7 @@
         "answer": 1
     },
     {
+        "table" : "7",
         "question": "4 x 7 = ?",
         "choice1": "7",
         "choice2": "21",
@@ -614,6 +690,7 @@
         "answer": 4
     },
     {
+        "table" : "7",
         "question": "5 x 7 = ?",
         "choice1": "14",
         "choice2": "21",
@@ -622,6 +699,7 @@
         "answer": 3
     },
     {
+        "table" : "7",
         "question": "6 x 7 = ?",
         "choice1": "14",
         "choice2": "42",
@@ -630,6 +708,7 @@
         "answer": 2
     },
     {
+        "table" : "7",
         "question": "7 x 7 = ?",
         "choice1": "49",
         "choice2": "21",
@@ -638,6 +717,7 @@
         "answer": 1
     },
     {
+        "table" : "7",
         "question": "8 x 7 = ?",
         "choice1": "35",
         "choice2": "56",
@@ -646,6 +726,7 @@
         "answer": 2
     },
     {
+        "table" : "7",
         "question": "9 x 7 = ?",
         "choice1": "63",
         "choice2": "56",
@@ -654,6 +735,7 @@
         "answer": 2
     },
     {
+        "table" : "7",
         "question": "10 x 7 = ?",
         "choice1": "70",
         "choice2": "56",
@@ -662,6 +744,7 @@
         "answer": 1
     },
     {
+        "table" : "7",
         "question": "11 x 7 = ?",
         "choice1": "70",
         "choice2": "56",
@@ -670,6 +753,7 @@
         "answer": 3
     },
     {
+        "table" : "7",
         "question": "12 x 7 = ?",
         "choice1": "70",
         "choice2": "91",
@@ -678,6 +762,7 @@
         "answer": 4
     },
     {
+        "table" : "8",
         "question": "1 x 8 = ?",
         "choice1": "1",
         "choice2": "16",
@@ -686,6 +771,7 @@
         "answer": 3
     },
     {
+        "table" : "8",
         "question": "2 x 8 = ?",
         "choice1": "16",
         "choice2": "24",
@@ -694,6 +780,7 @@
         "answer": 1
     },
     {
+        "table" : "8",
         "question": "3 x 8 = ?",
         "choice1": "16",
         "choice2": "24",
@@ -702,6 +789,7 @@
         "answer": 2
     },
     {
+        "table" : "8",
         "question": "4 x 8 = ?",
         "choice1": "32",
         "choice2": "24",
@@ -710,6 +798,7 @@
         "answer": 1
     },
     {
+        "table" : "8",
         "question": "5 x 8 = ?",
         "choice1": "56",
         "choice2": "24",
@@ -718,6 +807,7 @@
         "answer": 4
     },
     {
+        "table" : "8",
         "question": "6 x 8 = ?",
         "choice1": "56",
         "choice2": "48",
@@ -726,6 +816,7 @@
         "answer": 2
     },
     {
+        "table" : "8",
         "question": "7 x 8 = ?",
         "choice1": "72",
         "choice2": "64",
@@ -734,6 +825,7 @@
         "answer": 4
     },
     {
+        "table" : "8",
         "question": "8 x 8 = ?",
         "choice1": "56",
         "choice2": "64",
@@ -742,6 +834,7 @@
         "answer": 2
     },
     {
+        "table" : "8",
         "question": "9 x 8 = ?",
         "choice1": "72",
         "choice2": "88",
@@ -750,6 +843,7 @@
         "answer": 1
     },
     {
+        "table" : "8",
         "question": "10 x 8 = ?",
         "choice1": "88",
         "choice2": "96",
@@ -758,6 +852,7 @@
         "answer": 3
     },
     {
+        "table" : "8",
         "question": "11 x 8 = ?",
         "choice1": "72",
         "choice2": "96",
@@ -766,6 +861,7 @@
         "answer": 4
     },
     {
+        "table" : "8",
         "question": "12 x 8 = ?",
         "choice1": "88",
         "choice2": "104",
@@ -774,6 +870,7 @@
         "answer": 4
     },
     {
+        "table" : "9",
         "question": "1 x 9 = ?",
         "choice1": "1",
         "choice2": "10",
@@ -782,6 +879,7 @@
         "answer": 4
     },
     {
+        "table" : "9",
         "question": "2 x 9 = ?",
         "choice1": "1",
         "choice2": "18",
@@ -790,6 +888,7 @@
         "answer": 2
     },
     {
+        "table" : "9",
         "question": "3 x 9 = ?",
         "choice1": "36",
         "choice2": "9",
@@ -798,6 +897,7 @@
         "answer": 3
     },
     {
+        "table" : "9",
         "question": "4 x 9 = ?",
         "choice1": "45",
         "choice2": "27",
@@ -806,6 +906,7 @@
         "answer": 3
     },
     {
+        "table" : "9",
         "question": "5 x 9 = ?",
         "choice1": "45",
         "choice2": "36",
@@ -814,6 +915,7 @@
         "answer": 1
     },
     {
+        "table" : "9",
         "question": "6 x 9 = ?",
         "choice1": "45",
         "choice2": "54",
@@ -822,6 +924,7 @@
         "answer": 2
     },
     {
+        "table" : "9",
         "question": "7 x 9 = ?",
         "choice1": "45",
         "choice2": "54",
@@ -830,6 +933,7 @@
         "answer": 3
     },
     {
+        "table" : "9",
         "question": "8 x 9 = ?",
         "choice1": "72",
         "choice2": "63",
@@ -838,6 +942,7 @@
         "answer": 1
     },
     {
+        "table" : "9",
         "question": "9 x 9 = ?",
         "choice1": "108",
         "choice2": "63",
@@ -846,6 +951,7 @@
         "answer": 4
     },
     {
+        "table" : "9",
         "question": "10 x 9 = ?",
         "choice1": "108",
         "choice2": "90",
@@ -854,6 +960,7 @@
         "answer": 2
     },
     {
+        "table" : "9",
         "question": "11 x 9 = ?",
         "choice1": "90",
         "choice2": "108",
@@ -861,7 +968,17 @@
         "choice4": "99",
         "answer": 4
     },
+        {
+        "table" : "9",
+        "question": "12 x 9 = ?",
+        "choice1": "90",
+        "choice2": "108",
+        "choice3": "117",
+        "choice4": "99",
+        "answer": 4
+    },
     {
+        "table" : "10",
         "question": "1 x 10 = ?",
         "choice1": "1",
         "choice2": "10",
@@ -870,6 +987,7 @@
         "answer": 2
     },
     {
+        "table" : "10",
         "question": "2 x 10 = ?",
         "choice1": "30",
         "choice2": "10",
@@ -878,6 +996,7 @@
         "answer": 4
     },
     {
+        "table" : "10",
         "question": "3 x 10 = ?",
         "choice1": "30",
         "choice2": "20",
@@ -886,6 +1005,7 @@
         "answer": 1
     },
     {
+        "table" : "10",
         "question": "4 x 10 = ?",
         "choice1": "60",
         "choice2": "50",
@@ -894,6 +1014,7 @@
         "answer": 3
     },
     {
+        "table" : "10",
         "question": "5 x 10 = ?",
         "choice1": "40",
         "choice2": "50",
@@ -902,6 +1023,7 @@
         "answer": 2
     },
     {
+        "table" : "10",
         "question": "6 x 10 = ?",
         "choice1": "60",
         "choice2": "70",
@@ -910,6 +1032,7 @@
         "answer": 1
     },
     {
+        "table" : "10",
         "question": "7 x 10 = ?",
         "choice1": "90",
         "choice2": "80",
@@ -918,6 +1041,7 @@
         "answer": 4
     },
     {
+        "table" : "10",
         "question": "8 x 10 = ?",
         "choice1": "70",
         "choice2": "80",
@@ -926,6 +1050,7 @@
         "answer": 2
     },
     {
+        "table" : "10",
         "question": "9 x 10 = ?",
         "choice1": "100",
         "choice2": "80",
@@ -934,6 +1059,7 @@
         "answer": 4
     },
     {
+        "table" : "10",
         "question": "10 x 10 = ?",
         "choice1": "100",
         "choice2": "110",
@@ -942,6 +1068,7 @@
         "answer": 1
     },
     {
+        "table" : "10",
         "question": "11 x 10 = ?",
         "choice1": "100",
         "choice2": "130",
@@ -950,6 +1077,7 @@
         "answer": 3
     },
     {
+        "table" : "10",
         "question": "12 x 10 = ?",
         "choice1": "130",
         "choice2": "120",
@@ -958,6 +1086,7 @@
         "answer": 2
     },
     {
+        "table" : "11",
         "question": "1 x 11 = ?",
         "choice1": "11",
         "choice2": "22",
@@ -966,6 +1095,7 @@
         "answer": 1
     },
     {
+        "table" : "11",
         "question": "2 x 11 = ?",
         "choice1": "11",
         "choice2": "33",
@@ -974,6 +1104,7 @@
         "answer": 3
     },
     {
+        "table" : "11",
         "question": "3 x 11 = ?",
         "choice1": "44",
         "choice2": "33",
@@ -982,6 +1113,7 @@
         "answer": 2
     },
     {
+        "table" : "11",
         "question": "4 x 11 = ?",
         "choice1": "44",
         "choice2": "33",
@@ -990,6 +1122,7 @@
         "answer": 1
     },
     {
+        "table" : "11",
         "question": "5 x 11 = ?",
         "choice1": "66",
         "choice2": "33",
@@ -998,6 +1131,7 @@
         "answer": 3
     },
     {
+        "table" : "11",
         "question": "6 x 11 = ?",
         "choice1": "88",
         "choice2": "66",
@@ -1006,6 +1140,7 @@
         "answer": 2
     },
     {
+        "table" : "11",
         "question": "6 x 11 = ?",
         "choice1": "88",
         "choice2": "66",
@@ -1014,6 +1149,7 @@
         "answer": 2
     },
     {
+        "table" : "11",
         "question": "7 x 11 = ?",
         "choice1": "55",
         "choice2": "88",
@@ -1022,6 +1158,7 @@
         "answer": 4
     },
     {
+        "table" : "11",
         "question": "8 x 11 = ?",
         "choice1": "99",
         "choice2": "55",
@@ -1030,6 +1167,7 @@
         "answer": 4
     },
     {
+        "table" : "11",
         "question": "9 x 11 = ?",
         "choice1": "66",
         "choice2": "77",
@@ -1038,6 +1176,7 @@
         "answer": 3
     },
     {
+        "table" : "11",
         "question": "10 x 11 = ?",
         "choice1": "110",
         "choice2": "99",
@@ -1046,6 +1185,7 @@
         "answer": 1
     },
     {
+        "table" : "11",
         "question": "12 x 11 = ?",
         "choice1": "121",
         "choice2": "132",
@@ -1054,6 +1194,7 @@
         "answer": 2
     },
     {
+        "table" : "12",
         "question": "1 x 12 = ?",
         "choice1": "1",
         "choice2": "6",
@@ -1062,6 +1203,7 @@
         "answer": 3
     },
     {
+        "table" : "12",
         "question": "2 x 12 = ?",
         "choice1": "12",
         "choice2": "36",
@@ -1070,6 +1212,7 @@
         "answer": 3
     },
     {
+        "table" : "12",
         "question": "3 x 12 = ?",
         "choice1": "48",
         "choice2": "12",
@@ -1078,6 +1221,7 @@
         "answer": 3
     },
     {
+        "table" : "12",
         "question": "4 x 12 = ?",
         "choice1": "72",
         "choice2": "60",
@@ -1086,6 +1230,7 @@
         "answer": 4
     },
     {
+        "table" : "12",
         "question": "5 x 12 = ?",
         "choice1": "60",
         "choice2": "72",
@@ -1094,6 +1239,7 @@
         "answer": 1
     },
     {
+        "table" : "12",
         "question": "6 x 12 = ?",
         "choice1": "84",
         "choice2": "96",
@@ -1102,6 +1248,7 @@
         "answer": 4
     },
     {
+        "table" : "12",
         "question": "7 x 12 = ?",
         "choice1": "96",
         "choice2": "84",
@@ -1110,6 +1257,7 @@
         "answer": 2
     },
     {
+        "table" : "12",
         "question": "8 x 12 = ?",
         "choice1": "108",
         "choice2": "120",
@@ -1118,6 +1266,7 @@
         "answer": 3
     },
     {
+        "table" : "12",
         "question": "9 x 12 = ?",
         "choice1": "84",
         "choice2": "120",
@@ -1126,6 +1275,7 @@
         "answer": 3
     },
     {
+        "table" : "12",
         "question": "10 x 12 = ?",
         "choice1": "96",
         "choice2": "108",
@@ -1134,6 +1284,7 @@
         "answer": 4
     },
     {
+        "table" : "12",
         "question": "11 x 12 = ?",
         "choice1": "108",
         "choice2": "144",
@@ -1142,6 +1293,7 @@
         "answer": 4
     },
     {
+        "table" : "12",
         "question": "12 x 12 = ?",
         "choice1": "120",
         "choice2": "108",
@@ -1149,4 +1301,13 @@
         "choice4": "156",
         "answer": 3
     },
+    {
+        "table" : "12",
+        "question": "13 x 12 = ?",
+        "choice1": "138",
+        "choice2": "156",
+        "choice3": "158",
+        "choice4": "172",
+        "answer": 2
+    }
 ]
