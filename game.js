@@ -13,7 +13,9 @@ let availableQuesions = [];
 
 let questions = [];
 
-fetch("https://jpk3lly.github.io/TimesTablesAPI/TimesTables.json")
+//https://jpk3lly.github.io/TimesTablesAPI/TimesTables.json
+
+fetch("https://jpk3lly.github.io/TimesTableQuiz/TimesTablesQuestions.json")
     .then(res => {
         return res.json();
     })
