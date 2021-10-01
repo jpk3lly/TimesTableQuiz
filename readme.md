@@ -2,14 +2,14 @@
 
 <h3 align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        Check Out the Hacktoberfest website
+        Check Out the Hacktoberfest website to find out more about what's happenining in the month of October.
     </a>
 </h3>
 
 ## About this Repo :
 
-A few years ago, when I was first getting into coding, I decided to make a quiz to help my son learn his times tables. As it was my first go at HTML and JavaScript it's fairly 
-basic and I'm quite sure that there are plenty of improvements and additional features that can be made to it. 
+A few years ago, when I was first getting into coding, I decided the best way to learn was to just get stuck in and had a go at making a quiz to help my son learn his times 
+tables. As it was my first go at HTML and JavaScript it's fairly basic and I'm quite sure that there are plenty of improvements and additional features that can be made to it. 
 
 Then I thought, it's October! it's Hacktoberfest, lets see what we can make as a community.
 
