@@ -1149,4 +1149,12 @@
         "choice4": "156",
         "answer": 3
     },
+       {
+        "question": "13 x 12 = ?",
+        "choice1": "138",
+        "choice2": "156",
+        "choice3": "158",
+        "choice4": "172",
+        "answer": 2
+    }
 ]
