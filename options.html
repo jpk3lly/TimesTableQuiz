@@ -13,20 +13,110 @@
 <body>
     <div class="container">
         <div id="game" class="justify-center flex-column">
-            <h2 id="question"></h2>
+            <h2 id="question">Game Options</h2>
             <div class="choice-container">
-                <p class="choice-prefix">Choose the number of questions</p>
-                <p class="choice-text" data-number="1"></p>
+                <p class="choice-prefix">Timer</p>
+                <select class="dropdown-container" id="Select1">
+                    <option class="choice-radio-prefix">On</option>
+                    <option class="choice-radio-prefix">Off</option>
+                </select>
             </div>
             <div class="choice-container">
-                <p class="choice-prefix">Choose which Times Tables</p>
-                <p class="choice-text" data-number="2"></p>
+                <p class="choice-prefix">Number of questions</p>
+                <select class="dropdown-container" id="Select2">
+                    <option class="choice-radio-prefix">10</option>
+                    <option class="choice-radio-prefix">15</option>
+                    <option class="choice-radio-prefix">20</option>
+                    <option class="choice-radio-prefix">25</option>
+                    <option class="choice-radio-prefix">30</option>
+                    <option class="choice-radio-prefix">35</option>
+                    <option class="choice-radio-prefix">40</option>
+                    <option class="choice-radio-prefix">45</option>
+                    <option class="choice-radio-prefix">50</option>
+                </select>
             </div>
             <div class="choice-container">
-                <p class="choice-prefix">Timer On or Off</p>
-                <p class="choice-text" data-number="3"></p>
+                <table>
+                    <tr>
+                        <p class="choice-prefix">Choose which Times Tables </p>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="choice-container">
+                                <p class="choice-radio-prefix">1</p>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="choice-container">
+                                <p class="choice-radio-prefix">2</p>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="choice-container">
+                                <p class="choice-radio-prefix">3</p>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="choice-container">
+                                <p class="choice-radio-prefix">4</p>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="choice-container">
+                                <p class="choice-radio-prefix">5</p>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="choice-container">
+                                <p class="choice-radio-prefix">6</p>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="choice-container">
+                                <p class="choice-radio-prefix">7</p>
+                            </div>
+                        <td>
+                            <div class="choice-container">
+                                <p class="choice-radio-prefix">8</p>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="choice-container">
+                                <p class="choice-radio-prefix">9</p>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="choice-container">
+                                <p class="choice-radio-prefix">10</p>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="choice-container">
+                                <p class="choice-radio-prefix">11</p>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="choice-container">
+                                <p class="choice-radio-prefix">12</p>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                </table>
             </div>
+                <div>
+                    <div id="home" class="flex-center flex-column">
+                        <a class="btn" href="index.html">Back</a>
+                    </div>
+                </div>
+        </div>
         </div>
     </div>
 </body>
 </html>
+<script>
+    document.getElementById("NoOfQuestions").value;
+</script>
+

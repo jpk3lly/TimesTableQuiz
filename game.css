@@ -9,6 +9,16 @@
     background-color: #3C2B35;
 }
 
+.dropdown-container {
+    float: right;
+    display: flex;
+    width: 30%;
+    font-size: 3rem;
+    font-family: 'Waiting for the Sunrise', cursive;
+    color: white;
+    background-color: #3C2B35;
+}
+
     .choice-container:hover {
         cursor: pointer;
         box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
@@ -21,6 +31,14 @@
     background-color: #3C2B35;
     font-family: 'Waiting for the Sunrise', cursive;
     color: white;
+}
+
+.choice-radio-prefix {
+    padding: 1.5rem 2.5rem;
+    background-color: #3C2B35;
+    font-family: 'Waiting for the Sunrise', cursive;
+    color: white;
+    width: 100%
 }
 
 .choice-text {
