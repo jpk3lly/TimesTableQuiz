@@ -1,4 +1,4 @@
-<h1 align="center"> Hacktoberfest 2021 - Times Tables Quiz </h1>
+<h1 align="center"> Hacktoberfest 2022 - Times Tables Quiz </h1>
 
 <h3 align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
