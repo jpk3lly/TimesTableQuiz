@@ -1,4 +1,4 @@
-<h1 align="center"> Hacktoberfest 2022 - Times Tables Quiz </h1>
+<h1 align="center"> Hacktoberfest 2023 - Times Tables Quiz </h1>
 
 <h3 align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
@@ -8,10 +8,7 @@
 
 ## About this Repo :
 
-A few years ago, when I was first getting into coding, I decided the best way to learn was to just get stuck in and had a go at making a quiz to help my son learn his times 
-tables. As it was my first go at HTML and JavaScript it's fairly basic and I'm quite sure that there are plenty of improvements and additional features that can be made to it. 
-
-Then I thought, it's October! it's Hacktoberfest, lets see what we can make as a community.
+Once again accepting pull requests for 2023.
 
 ## Steps To Contribute to this Repo
 
