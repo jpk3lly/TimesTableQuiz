@@ -1,0 +1,109 @@
+﻿.choice-container {
+    display: flex;
+    margin-bottom: 0.5rem;
+    width: 100%;
+    font-size: 3rem;
+    font-family: 'Waiting for the Sunrise', cursive;
+    color: white;
+    border: 0.2rem solid white;
+    background-color: #3C2B35;
+}
+
+.dropdown-container {
+    float: right;
+    display: flex;
+    width: 30%;
+    font-size: 3rem;
+    font-family: 'Waiting for the Sunrise', cursive;
+    color: white;
+    background-color: #3C2B35;
+}
+
+    .choice-container:hover {
+        cursor: pointer;
+        box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+        transform: translateY(-0.1rem);
+        transition: transform 150ms;
+    }
+
+.choice-prefix {
+    padding: 1.5rem 2.5rem;
+    background-color: #3C2B35;
+    font-family: 'Waiting for the Sunrise', cursive;
+    color: white;
+}
+
+.choice-radio-prefix {
+    padding: 1.5rem 2.5rem;
+    background-color: #3C2B35;
+    font-family: 'Waiting for the Sunrise', cursive;
+    color: white;
+    width: 100%
+}
+
+.choice-text {
+    padding: 1.5rem;
+    width: 100%;
+    color: white;
+}
+
+.correct {
+    background-color: #28a745;
+}
+
+.incorrect {
+    background-color: #dc3545;
+}
+
+/* HUD */
+
+#hud {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hud-prefix {
+    font-family: 'Waiting for the Sunrise', cursive;
+    text-align: center;
+    font-size: 2.5rem;
+    color: white;
+}
+
+.hud-main-text {
+    font-family: 'Waiting for the Sunrise', cursive;
+    text-align: center;
+    color: white;
+}
+
+#progressBar {
+    width: 20rem;
+    height: 4rem;
+    border: 0.3rem solid white;
+    margin-top: 1.5rem;
+ }
+
+#progressBarFull {
+    height: 3.4rem;
+    background-color: #56a5eb;
+    width: 0%;
+}
+
+/* LOADER */
+#loader {
+    border: 1.6rem solid white;
+    border-radius: 50%;
+    border-top: 1.6rem solid #56a5eb;
+    width: 12rem;
+    height: 12rem;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
