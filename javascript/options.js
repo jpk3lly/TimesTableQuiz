@@ -1,18 +1,25 @@
-const numberOfQuestionsDropdown = document.getElementById("tota-questions");
+const timerDropdown = document.getElementById("timer");
+const numberOfQuestionsDropdown = document.getElementById("total-questions");
 
 let noOfQuestions;
+let timerOn = false;
 
+
+timerToggle = () => {
+    if(timerDropdown.value === true)
+    {timerOn = true;}
+
+};
 
 howManyQuestions = () => {
     noOfQuestions = numberOfQuestionsDropdown;
-    console.log(noOfQuestions.value());
+    console.log(noOfQuestions.value);
 };
 
-howManyQuestions();
-
-
 confirmChoices = () =>{
-    
+    timerToggle();
+    howManyQuestions();
 }
 
 
+confirmChoices();
