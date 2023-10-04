@@ -28,7 +28,7 @@ fetch("https://jpk3lly.github.io/TimesTableQuiz/TimesTablesQuestions.json")
 
 //CONSTANTS
 const CORRECT_BONUS = 10;
-const MAX_QUESTIONS = 10;
+const MAX_QUESTIONS = localStorage.getItem("noOfQuestions");
 
 startGame = () => {
     questionCounter = 0;
