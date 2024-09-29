@@ -1,4 +1,4 @@
-<h1 align="center"> Hacktoberfest 2023 - Times Tables Quiz </h1>
+<h1 align="center"> Times Tables Quiz </h1>
 
 <h3 align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
@@ -8,7 +8,7 @@
 
 ## About this Repo :
 
-Once again accepting pull requests for 2023.
+Once again accepting Hacktoberfest pull requests for 2024.
 
 ## Steps To Contribute to this Repo
 
@@ -16,7 +16,7 @@ Once again accepting pull requests for 2023.
     2. Star this repo
     3. Add a file
     4. commit the code
-    5. Make pull request
+    5. Make a pull request
 
 ***
 <h2 align="center">
