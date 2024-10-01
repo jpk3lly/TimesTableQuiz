@@ -732,7 +732,7 @@
         "choice2": "56",
         "choice3": "70",
         "choice4": "49",
-        "answer": 2
+        "answer": 1
     },
     {
         "table" : "7",
@@ -975,7 +975,7 @@
         "choice2": "108",
         "choice3": "117",
         "choice4": "99",
-        "answer": 4
+        "answer": 2
     },
     {
         "table" : "10",
@@ -1191,7 +1191,7 @@
         "choice2": "132",
         "choice3": "110",
         "choice4": "99",
-        "answer": 2
+        "answer": 1
     },
     {
         "table" : "12",
@@ -1209,7 +1209,7 @@
         "choice2": "36",
         "choice3": "48",
         "choice4": "24",
-        "answer": 3
+        "answer": 4
     },
     {
         "table" : "12",
