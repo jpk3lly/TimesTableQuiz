@@ -27,7 +27,7 @@ fetch("https://jpk3lly.github.io/TimesTableQuiz/TimesTablesQuestions.json")
     });
 
 //CONSTANTS
-const CORRECT_BONUS = 10;
+const CORRECT_BONUS = 1;
 const MAX_QUESTIONS = localStorage.getItem("noOfQuestions");
 
 startGame = () => {
@@ -41,7 +41,7 @@ startGame = () => {
 
 getNewQuestion = () => {
     if (availableQuesions.length === 0 || questionCounter >= MAX_QUESTIONS) {
-        localStorage.setItem("mostRecentScore", score);
+        localStorage.setItem("mostRecentScore", (score/MAX_QUESTIONS) * 100 + "%");
         //go to the end page
         return window.location.assign("end.html");
     }
@@ -88,6 +88,6 @@ choices.forEach(choice => {
 });
 
 incrementScore = num => {
-    score += num;
-    scoreText.innerText = score;
+    score = (score += num);
+    scoreText.innerText = (score/MAX_QUESTIONS) * 100 + "%";
 };
