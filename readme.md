@@ -1,28 +1,28 @@
 <h1 align="center"> Times Tables Quiz </h1>
 
-## About this Repo :
+# Accepting Hacktoberfest 2024 Contributions!
+We appreciate those who contribute to our project, We salute You!
 
-Once again accepting Hacktoberfest pull requests for 2024.
+# About this Project
+Welcome to the Times Table Quiz!
 
-## Steps To Contribute to this Repo
+The Name should be self explanitory but it's a game about testing your memory about the times table!
 
-    1. Fork this repo
-    2. Star this repo
-    3. Add a file
-    4. commit the code
-    5. Make a pull request
-***
+## Contributing to this Project 📚
+Want to get involved? Here's how you can contribute:
 
-<h3 align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        Check Out the Hacktoberfest website to find out more about what's happenining in the month of October.
-    </a>
-</h3>
+- Fork the repository: Click the "Fork" button on the top right corner of this page to create a copy of this repository.
+- Star the repository: Show your support by starring this repository.
+- Create a new branch: Create a new branch to work on your feature or bug fix.
+- Commit your changes: Commit your code with a descriptive commit message.
+- Make a pull request: Submit your changes for review by creating a pull request.
+  
+## Thank You!
+Thank you for contributing to this project! We're excited to see what you create.
 
-***
-<h2 align="center">
-    <p>
-        Thank You and Happy Hacking!!
-    </p>
-</h2>
+
+
+# Acknowledgments ⭐
+Thank you to the [Add the list of contributors here :P].
+
 
