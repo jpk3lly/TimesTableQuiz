@@ -1,6 +1,6 @@
 <h1 align="center"> Times Tables Quiz </h1>
 
-# Accepting Hacktoberfest 2024 Contributions!
+# Accepting Hacktoberfest 2025 Contributions!
 We appreciate those who contribute to our project, We salute You!
 
 # About this Project
