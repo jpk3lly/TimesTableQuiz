@@ -89,5 +89,5 @@ choices.forEach(choice => {
 
 incrementScore = num => {
     score = (score += num);
-    scoreText.innerText = (score/MAX_QUESTIONS) * 100 + "%";
+    scoreText.innerText = Math.round((score/MAX_QUESTIONS)*100) + "%";
 };
